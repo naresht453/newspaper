@@ -1,0 +1,52 @@
+.total{
+    color: white;
+    background-color: #fb4e71;
+    width: 380px;
+    height: 190px;
+    
+}
+.para{
+    padding: 10px;
+    margin-right: 30px;
+}
+.top{
+  margin-left: 10px;
+}
+.m-head{
+    margin-left: 10px;
+
+}
+.m-para{
+    margin-right: 40px;
+    width: 230px;
+}
+.middle{
+    background-color: white;
+    width: 355px;
+    height: 140px;
+    margin-left: 15px;
+    border-radius: 10px;
+}
+.h-h{
+    margin-left: 4px;
+    margin-bottom: 10px;
+    padding: 15px;
+}
+
+.btm{
+    margin: 7px;
+    width: 104px;
+
+}
+.back-col{
+    background-color: #e6f6ff;
+    width: 382px;
+}
+
+.btn{
+    color: white;
+    
+}
+.v-cls{
+   margin-left: 10px;
+}
